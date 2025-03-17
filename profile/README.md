@@ -20,4 +20,4 @@ At Kyle Hosting Service, we provide top-notch hosting solutions tailored for ind
 Follow us for updates, tips, and tutorials on web hosting, development, and more! Let’s build something amazing together.
 
 📫 **Get in Touch:**  
-Have questions? Reach out to us at [support@kyle-hosting.xyz](mailto:support@kyle-hosting.xyz) or visit our website at [kylehosting.com](https://kylehosting.com).
+Have questions? Reach out to us at [support@kyle-hosting.xyz](mailto:support@kyle-hosting.xyz) or visit our website at [kyle-hosting.xyz](https://kyle-hosting.xyz).
